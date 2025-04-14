@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Contact = () => {
-  const backgroundImage = "public/images/24600855_sl_031420_28950_10.jpg";
+  const backgroundImage = "/images/24600855_sl_031420_28950_10.jpg";
 
   return (
     <div

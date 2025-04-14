@@ -3,8 +3,8 @@ import React from "react";
 function AboutME() {
   const profileImage = "images/1700657007195 (1).jpg";
   const haerinImage = "/images/Haerin.jpg";
-  const chaEunWooImage = "public/images/A_Good_Day_to_Be_a_Dog-a00.jpg";
-  const backgroundImage = "public/images/24600855_sl_031420_28950_10.jpg";
+  const chaEunWooImage = "/images/A_Good_Day_to_Be_a_Dog-a00.jpg";
+  const backgroundImage = "/images/24600855_sl_031420_28950_10.jpg";
 
   return (
     <div

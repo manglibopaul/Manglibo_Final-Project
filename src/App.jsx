@@ -23,7 +23,7 @@ function App() {
         className="relative min-h-screen w-full flex items-center justify-center text-center px-10 py-24"
         style={{
           backgroundImage:
-            "url('public/images/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg')",
+            "url('/images/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
