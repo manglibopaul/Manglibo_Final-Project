@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Experience = () => {
-  const backgroundImage = "public/images/24600855_sl_031420_28950_10.jpg"; // Replace with your actual image path
+  const backgroundImage = "public/images/24600855_sl_031420_28950_10.jpg";
 
   return (
     <div
@@ -18,7 +18,7 @@ const Experience = () => {
           Experience
         </h1>
         <div className="flex flex-col md:flex-row items-start gap-12 p-6 border border-gray-800 rounded-lg bg-black/80">
-          {/* Left Column */}
+
           <div className="md:w-1/3 space-y-8 text-center md:text-left">
             <div>
               <h2 className="text-3xl font-semibold text-green-400 mb-4">Summary</h2>
@@ -59,7 +59,6 @@ const Experience = () => {
             </div>
           </div>
 
-          {/* Right Column */}
           <div className="md:w-2/3 mt-0 text-center md:text-left">
             <h2 className="text-3xl font-semibold text-green-400 mb-6">
               Experience

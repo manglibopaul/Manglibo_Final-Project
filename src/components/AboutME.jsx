@@ -20,7 +20,7 @@ function AboutME() {
       <div style={styles.content}>
         <img src={profileImage} alt="Paul Yannie Manglibo" style={styles.profilePicture} />
         <div style={styles.infoContainer}>
-          {/* Main information section  */}
+
           <div style={styles.mainInfo}>
             <h3 style={styles.name}>Paul Yannie Manglibo</h3>
             <p style={styles.introduction}>
@@ -52,7 +52,6 @@ function AboutME() {
             </div>
           </div>
 
-          {/* Skills and Comments Section */}
           <div style={styles.additionalInfo}>
             <div style={styles.skillsContainer}>
               <h4 style={styles.skillsHeading}>SKILLS</h4>
